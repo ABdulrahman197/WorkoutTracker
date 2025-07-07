@@ -1,0 +1,15 @@
+C:\Users\dell\source\repos\WorkoutTracker\WorkoutTracker.Repository\bin\Debug\net8.0\WorkoutTracker.Repository.deps.json
+C:\Users\dell\source\repos\WorkoutTracker\WorkoutTracker.Repository\bin\Debug\net8.0\WorkoutTracker.Repository.dll
+C:\Users\dell\source\repos\WorkoutTracker\WorkoutTracker.Repository\bin\Debug\net8.0\WorkoutTracker.Repository.pdb
+C:\Users\dell\source\repos\WorkoutTracker\WorkoutTracker.Repository\bin\Debug\net8.0\WorkoutTracker.Core.dll
+C:\Users\dell\source\repos\WorkoutTracker\WorkoutTracker.Repository\bin\Debug\net8.0\WorkoutTracker.Core.pdb
+C:\Users\dell\source\repos\WorkoutTracker\WorkoutTracker.Repository\obj\Debug\net8.0\WorkoutTracker.Repository.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\WorkoutTracker\WorkoutTracker.Repository\obj\Debug\net8.0\WorkoutTracker.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\WorkoutTracker\WorkoutTracker.Repository\obj\Debug\net8.0\WorkoutTracker.Repository.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\WorkoutTracker\WorkoutTracker.Repository\obj\Debug\net8.0\WorkoutTracker.Repository.AssemblyInfo.cs
+C:\Users\dell\source\repos\WorkoutTracker\WorkoutTracker.Repository\obj\Debug\net8.0\WorkoutTracker.Repository.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\WorkoutTracker\WorkoutTracker.Repository\obj\Debug\net8.0\WorkoutT.331ABAE5.Up2Date
+C:\Users\dell\source\repos\WorkoutTracker\WorkoutTracker.Repository\obj\Debug\net8.0\WorkoutTracker.Repository.dll
+C:\Users\dell\source\repos\WorkoutTracker\WorkoutTracker.Repository\obj\Debug\net8.0\refint\WorkoutTracker.Repository.dll
+C:\Users\dell\source\repos\WorkoutTracker\WorkoutTracker.Repository\obj\Debug\net8.0\WorkoutTracker.Repository.pdb
+C:\Users\dell\source\repos\WorkoutTracker\WorkoutTracker.Repository\obj\Debug\net8.0\ref\WorkoutTracker.Repository.dll

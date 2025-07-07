@@ -1,0 +1,94 @@
+﻿[
+  {
+
+    "Name": "Push Up",
+    "Description": "A basic bodyweight exercise that works the chest, shoulders, and triceps.",
+    "Category": "Strength",
+    "MuscleGroup": "Chest",
+    "EquipmentRequired": "Without Equipments",
+    "DifficultyLevel": "Easy"
+  },
+  {
+
+
+
+    "Name": "Squat",
+    "Description": "A lower body exercise that targets the thighs, hips, and buttocks.",
+    "Category": "Strength",
+    "MuscleGroup": "Legs",
+    "EquipmentRequired": "Without Equipments",
+    "DifficultyLevel": "Medium"
+  },
+  {
+
+    "Name": "Deadlift",
+    "Description": "A compound movement that works the entire posterior chain.",
+    "Category": "Strength",
+    "MuscleGroup": "Back",
+    "EquipmentRequired": "Bar",
+    "DifficultyLevel": "Hard"
+  },
+  {
+
+    "Name": "Plank",
+    "Description": "A core stabilization exercise.",
+    "Category": "Core",
+    "MuscleGroup": "Abs",
+    "EquipmentRequired": "Without Equipments",
+    "DifficultyLevel": "Easy"
+  },
+  {
+
+    "Name": "Pull Up",
+    "Description": "Upper body compound pulling exercise.",
+    "Category": "Strength",
+    "MuscleGroup": "Back",
+    "EquipmentRequired": "Without Equipments",
+    "DifficultyLevel": "Hard"
+  },
+  {
+
+    "Name": "Bicep Curl",
+    "Description": "Isolation exercise for biceps.",
+    "Category": "Strength",
+    "MuscleGroup": "Arms",
+    "EquipmentRequired": "Dumbells",
+    "DifficultyLevel": "Medium"
+  },
+  {
+
+    "Name": "Bench Press",
+    "Description": "Chest pressing movement.",
+    "Category": "Strength",
+    "MuscleGroup": "Chest",
+    "EquipmentRequired": "Bar",
+    "DifficultyLevel": "Hard"
+  },
+  {
+
+    "Name": "Lunges",
+    "Description": "Targets legs and glutes.",
+    "Category": "Strength",
+    "MuscleGroup": "Legs",
+    "EquipmentRequired": "Without Equipments",
+    "DifficultyLevel": "Medium"
+  },
+  {
+
+    "Name": "Shoulder Press",
+    "Description": "Targets shoulders and triceps.",
+    "Category": "Strength",
+    "MuscleGroup": "Shoulders",
+    "EquipmentRequired": "Dumbells",
+    "DifficultyLevel": "Medium"
+  },
+  {
+
+    "Name": "Mountain Climbers",
+    "Description": "Cardio and core strengthening.",
+    "Category": "Cardio",
+    "MuscleGroup": "Full Body",
+    "EquipmentRequired": "Without Equipments",
+    "DifficultyLevel": "Easy"
+  }
+]

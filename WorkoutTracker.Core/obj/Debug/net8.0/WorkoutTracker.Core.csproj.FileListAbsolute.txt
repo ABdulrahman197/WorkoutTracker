@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\WorkoutTracker\WorkoutTracker.Core\bin\Debug\net8.0\WorkoutTracker.Core.deps.json
+C:\Users\dell\source\repos\WorkoutTracker\WorkoutTracker.Core\bin\Debug\net8.0\WorkoutTracker.Core.dll
+C:\Users\dell\source\repos\WorkoutTracker\WorkoutTracker.Core\bin\Debug\net8.0\WorkoutTracker.Core.pdb
+C:\Users\dell\source\repos\WorkoutTracker\WorkoutTracker.Core\obj\Debug\net8.0\WorkoutTracker.Core.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\WorkoutTracker\WorkoutTracker.Core\obj\Debug\net8.0\WorkoutTracker.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\WorkoutTracker\WorkoutTracker.Core\obj\Debug\net8.0\WorkoutTracker.Core.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\WorkoutTracker\WorkoutTracker.Core\obj\Debug\net8.0\WorkoutTracker.Core.AssemblyInfo.cs
+C:\Users\dell\source\repos\WorkoutTracker\WorkoutTracker.Core\obj\Debug\net8.0\WorkoutTracker.Core.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\WorkoutTracker\WorkoutTracker.Core\obj\Debug\net8.0\WorkoutTracker.Core.dll
+C:\Users\dell\source\repos\WorkoutTracker\WorkoutTracker.Core\obj\Debug\net8.0\refint\WorkoutTracker.Core.dll
+C:\Users\dell\source\repos\WorkoutTracker\WorkoutTracker.Core\obj\Debug\net8.0\WorkoutTracker.Core.pdb
+C:\Users\dell\source\repos\WorkoutTracker\WorkoutTracker.Core\obj\Debug\net8.0\ref\WorkoutTracker.Core.dll
+C:\Users\dell\source\repos\WorkoutTracker\WorkoutTracker.Core\bin\Debug\net8.0\WorkoutTracker.Core.runtimeconfig.json
+C:\Users\dell\source\repos\WorkoutTracker\WorkoutTracker.Core\obj\Debug\net8.0\WorkoutTracker.Core.genruntimeconfig.cache
